@@ -10,7 +10,7 @@ Create a brand new .net webapi in that folder (you will start adding code to the
 
 Open the folder with VS Code.
 
-Add a `.gitignore`file.  Go to [gitignore.io](https://www.toptal.com/developers/gitignore) website to add the contents of your interest. As an alternative, you can use the VS Code extension (once installed, press F1 and write gitignore and select Visual Studio in case your webapi was created using Visual Studio).
+Add a `.gitignore`file.  Go to [gitignore.io](https://www.toptal.com/developers/gitignore) website to add the contents of your interest. As an alternative, you can use the VS Code extension (once installed, press F1 and write gitignore and select Visual Studio in case your webapi was created using Visual Studio; select VS Code if you just used .NET CLI and VS Code).
 ```
 ...
 # User-specific files
